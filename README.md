@@ -1,4 +1,4 @@
-# Travel Website Project ReadMe
+# Travel Website Project
 
 This GitHub repository hosts a travel website project which is built using HTML, CSS, JavaScript, and PHP, with a MySQL database to manage tour bookings. It's important to note that this project is intended for local deployment.
 
